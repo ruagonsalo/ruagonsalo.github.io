@@ -504,7 +504,19 @@
      }
      .case-study-images li .hero-number-back{
          font-size: 32vw;
-     } 
+     }
+     .titleCompany{
+         display: none;
+     }
+     .case-study-wrapper{
+         width: 100%!important;
+     }
+     .smNone{
+         display: none;
+     }
+     .over-hide{
+         display: none;
+     }
  }
  
  /* #Link to page
